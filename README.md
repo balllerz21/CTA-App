@@ -36,4 +36,12 @@
   9. Find Stations Near a Location 
   Description: Lists all stations within a mile of specified latitude and longitude coordinates.
   You can also plot this information on the map of Chicago.
+
+## Plotting 
+Commands 6,7,8, and 9 all have the option 
+to plot their respective data. In order for 
+the plots to appear, the user must put the 
+option 'Y'. From there, the plot should 
+appear as a png file. 
+
  
